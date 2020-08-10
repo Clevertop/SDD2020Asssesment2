@@ -6,3 +6,8 @@
 
 # test
 print("test")
+
+
+# test
+print("hello")
+getattr()

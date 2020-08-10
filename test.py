@@ -2,14 +2,12 @@
 
 
 # test
-# testyefhdks
+# test
 
 # test
 print("test")
 
 
-# testye
+# test
 print("hello")
 getattr()
-print("test 3")
-
